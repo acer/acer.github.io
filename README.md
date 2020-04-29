@@ -1,2 +1,3 @@
-# acerism.github.io
-Oh my! My website hosted by Github!
+# acerdotio
+
+my personal website ya bysh
